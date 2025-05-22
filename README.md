@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-
+20250522
 ## 确保 安装了 redis 服务
 
 依次执行以下 命令
